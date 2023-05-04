@@ -1,17 +1,17 @@
-#MICROSOFT MOVIE STUDIOS PROJECT
+# MICROSOFT MOVIE STUDIOS PROJECT
 
-###Presented by: Samuel Mbugua Igecha
+### Presented by: Samuel Mbugua Igecha
 
-##AIM OF THIS PROJECT
+## AIM OF THIS PROJECT
 This project explores data on the movies that have been produced over the years to come up with insights and recommendations for the head of Microsoft's new studio that can be used to decide what type movies to create. The data has been collected from various movie websites such as IMDB, RottenTomatoes, Box Office Mojo, The Movie Database and The Numbers all provided by Moringa School.
 
-##BUSINESS PROBLEM
+## BUSINESS PROBLEM
 As a newbie into the movie industry, Microsoft is going to face alot of high competition from already established firms with far more experience like Disney, Comcast, Sony, Netflix and many others. And to add on this, it's tech competitor Amazon opened Amazon studios in 2010 and the Amazon streaming service(PRIME) to produce its own content and acquired MGM studios in 2022 along with its entire movie catalogue. Inorder for Microsoft to compete, millions upon billions in capital will have to be invested inorder to even stand a chance of being competitive. Amazon alone spent $8 billion on original in just 2022 alone.
 
-##Data 
+## Data 
 As i stated above, the data has been collected fro various sites across the web. The IMDB datasets were the most used in the analysis. They gave insights into consumer behavior with regards to ratings and movie runtimes. The next dataset was from TheNumbers that provided financial data with regards to the Box Office earnings and movie budgets, it gave insights on the correlation between the two.
 
-##Results
+## Results
 
 ![linechart](https://user-images.githubusercontent.com/54464999/224995303-1f683036-7acb-425f-bcf2-27dc10bd1c30.png)
 
@@ -33,11 +33,11 @@ For the above scatter plot it shows a positive correlation between budget and re
 
 My recommendation to Microsoft movie studios is that since they are knew entrants into the movie industry, they should start off with low budget and indie films to gauge the market as it takes into account its startup capital. Unless Microsoft has the budget to adapt one of their large popular gaming franchises into movies e.g. Gears of war and Halo that have a large loyal fanbase into a guaranteed money making juggernauts like Disney and WarnerBros have done with Marvel and DC then that will pose less of a financial risk.
 
-##Conclusions
+## Conclusions
 
 **Consider low budget indie films first to gauge the market.**
 **Invest in popular franchises to garner larger returns in revenue.**
 **Produce movies with an average runtime of about 90 minutes.**
 
-##For More Information
+## For More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/Igecha-Samuel/Phase-1-Project-Moringa/blob/master/student.ipynb) or review this [presentation](https://github.com/Igecha-Samuel/Phase-1-Project-Moringa/blob/master/Presentation.pdf). 
